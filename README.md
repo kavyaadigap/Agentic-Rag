@@ -1,3 +1,5 @@
+Agentic RAG (Retrieval-Augmented Generation)
+
 There are two primary types of RAG workflows:
 
 Traditional RAG – In this setup, a specific database or knowledge source is used. A user query is processed through a prompt and passed to an LLM (Large Language Model), which retrieves information from the predefined database and returns a response.
